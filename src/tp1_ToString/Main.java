@@ -3,7 +3,7 @@ package tp1_ToString;
 import java.util.ArrayList;
 import java.util.List;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Estudiante estudiante = new Estudiante("Maria", 22, "Ingeniería");
         Estudiante estudiante2 = new Estudiante("Ana", 25, "Medicina");
