@@ -1,15 +1,15 @@
-package tp1_ToString;
+package Colletions.TP1;
 
-public class Persona {
+public class Alumno {
     private String nombre;
-    private int edad;
+    private double nota;
 
-    public Persona() {
+    public Alumno() {
     }
 
-    public Persona(String nombre, int edad) {
+    public Alumno(String nombre, double nota) {
         this.nombre = nombre;
-        this.edad = edad;
+        this.nota = nota;
     }
 
     public String getNombre() {
@@ -20,19 +20,19 @@ public class Persona {
         this.nombre = nombre;
     }
 
-    public int getEdad() {
-        return edad;
+    public double getNota() {
+        return nota;
     }
 
-    public void setEdad(int edad) {
-        this.edad = edad;
+    public void setNota(double nota) {
+        this.nota = nota;
     }
 
     @Override
     public String toString() {
-        return "Persona{" +
+        return "Alumno{" +
                 "nombre='" + nombre + '\'' +
-                ", edad=" + edad +
+                ", nota=" + nota +
                 '}';
     }
 }

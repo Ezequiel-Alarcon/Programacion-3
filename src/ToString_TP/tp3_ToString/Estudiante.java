@@ -1,4 +1,6 @@
-package tp1_ToString;
+package ToString_TP.tp3_ToString;
+
+import ToString_TP.tp1_ToString.Persona;
 
 public class Estudiante extends Persona {
     private String carrera;

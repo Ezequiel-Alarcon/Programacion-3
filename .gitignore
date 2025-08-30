@@ -3,6 +3,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea/
+.Teoria
+.Trabajos Hechos
+.Trabajos Practicos
 
 ### Eclipse ###
 .apt_generated

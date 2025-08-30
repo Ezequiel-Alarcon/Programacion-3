@@ -1,4 +1,4 @@
-package tp3_ToString;
+package ToString_TP.tp3_ToString;
 
 import java.util.ArrayList;
 import java.util.List;

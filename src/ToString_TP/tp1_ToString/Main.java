@@ -1,4 +1,4 @@
-package tp1_ToString;
+package ToString_TP.tp1_ToString;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package tp4_Equals;
+package ToString_TP.tp5_HashCode;
 
 import java.util.Objects;
 

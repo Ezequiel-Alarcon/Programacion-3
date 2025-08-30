@@ -1,4 +1,4 @@
-package tp5_HashCode;
+package ToString_TP.tp5_HashCode;
 
 import java.util.HashSet;
 import java.util.Set;

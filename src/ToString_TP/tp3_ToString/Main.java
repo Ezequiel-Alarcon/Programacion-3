@@ -1,4 +1,4 @@
-package tp3_ToString;
+package ToString_TP.tp3_ToString;
 
 public class Main {
     public static void main(String[] args) {

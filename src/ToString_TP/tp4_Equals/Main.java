@@ -1,4 +1,4 @@
-package tp4_Equals;
+package ToString_TP.tp4_Equals;
 
 import java.util.ArrayList;
 import java.util.List;
