@@ -1,4 +1,4 @@
-package Colletions.TP1;
+package Colletions.TP2;
 
 public class Alumno {
     private String nombre;
